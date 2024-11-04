@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: Junior Undergrad @ (Utexas Linguistics)[https://liberalarts.utexas.edu/linguistics/]. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>email: siyuansong [at] utexas [dot] edu</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Siyuan Song(宋思远). I am a 3rd-year Undergrad at [UT Linguistics](https://liberalarts.utexas.edu/linguistics/). I am a member of [UT CompLing Group](https://sites.utexas.edu/compling/) and part of [UT NLP community](https://www.nlp.utexas.edu/). I'm fortunate to be advised by Prof. [Kyle Mahowald](https://mahowak.github.io/). In the past summer(2024), I worked as a Visiting Undergraduate Research Intern at [CoCoDev@Harvard](https://www.cocodev.org/) and was supervised by Prof. [Jennifer Hu](https://jennhu.github.io/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before transferring to UT at 2024 Fall, I was an undergrd at [School of Foreign Languages@SJTU](https://sfl.sjtu.edu.cn/en/). 
+There, I had the honor of develving into the field of Computational Linguistics under the guidance of Prof. [Hai Hu](https://huhailinguist.github.io/). I am affiliated with his [SJTU CL Lab](https://huhailinguist.github.io/lab/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research aims to 
