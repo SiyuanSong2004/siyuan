@@ -23,3 +23,5 @@ Before transferring to UT at 2024 Fall, I was an undergrd at [School of Foreign 
 There, I had the honor of develving into the field of Computational Linguistics under the guidance of Prof. [Hai Hu](https://huhailinguist.github.io/). I am affiliated with his [SJTU CL Lab](https://huhailinguist.github.io/lab/).
 
 My research aims to 
+
+In my spare time, I make music.
