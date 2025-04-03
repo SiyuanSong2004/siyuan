@@ -33,11 +33,27 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
-"Hu":
+"hu":
   - firstname: ["Hai"]
     url: https://huhailinguist.github.io/
+  - firstname: ["Jennifer"]
+    url: https://jennhu.github.io/
   
 
-"Yue":
+"yue":
   - firstname: ["Shisen"]
     url: https://shawn0918.github.io/
+
+"liu":
+  - firstname: ["Yikang"]
+    url: https://yikang0131.github.io/
+
+  
+
+"mahowald":
+  - firstname: ["Kyle"]
+    url: https://mahowak.github.io/
+
+"wang":
+  - firstname: ["Rui"]
+    url: https://wangruinlp.github.io/

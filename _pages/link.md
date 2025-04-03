@@ -20,18 +20,6 @@ pagination:
 *I hope I'll be there*
 
 
-**EMNLP 2024@Miami, Florida** (Nov.12-16) [[Link](https://2024.emnlp.org/)] 
-
-- Main Conference Submission DDL Passed.
-
-
-
-**COLING 2025@Abu Dhabi, UAE** (Jan.19-24) [[Link](https://coling2025.org/)] 
-
-- Main Conference Submission DDL Passed. 
-
-- Workshop info [here](https://coling2025.org/program/workshops/).
-
 **NAACL 2025@Albuquerque, New Mexico** (Apr.29-May.4) [[Link](https://2025.naacl.org/)]
 
 - Main Conference Submission DDL Passed. (October ARR) 
